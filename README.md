@@ -11,7 +11,7 @@ Create a new app in Django project
 ### STEP 3:
 Enter the code for admin.py and models.py
 ### STEP 4:
-Execute Django admin and create 10 
+Execute Django admin and create 10 student's details
 
 ## PROGRAM
 ```
